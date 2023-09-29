@@ -1,4 +1,9 @@
+  cpp
 * main
+  python
+  remotes/origin/cpp
+  remotes/origin/main
+  remotes/origin/python
   remotes/upstream/HEAD -> upstream/main
   remotes/upstream/cpp
   remotes/upstream/main
