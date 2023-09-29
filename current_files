@@ -1,12 +1,13 @@
-total 144
-drwxr-xr-x  18 hulumiao  staff    576 Sep 28 20:26 .
+total 152
+drwxr-xr-x  19 hulumiao  staff    608 Sep 28 20:29 .
 drwxr-xr-x   4 hulumiao  staff    128 Sep 28 20:13 ..
 -rw-r--r--   1 hulumiao  staff    136 Sep 28 20:22 source.cpp
 -rw-r--r--   1 hulumiao  staff     30 Sep 28 20:26 1695947161.object
--rw-r--r--   1 hulumiao  staff      0 Sep 28 20:26 old.o
+-rw-r--r--   1 hulumiao  staff   1114 Sep 28 20:26 old.o
 -rw-r--r--   1 hulumiao  staff   1072 Sep 28 20:22 LICENSE
 -rw-r--r--   1 hulumiao  staff    118 Sep 28 20:22 information.txt
 -rw-r--r--   1 hulumiao  staff    203 Sep 28 20:22 branch_data
+-rw-r--r--   1 hulumiao  staff      0 Sep 28 20:29 current_files
 -rw-r--r--   1 hulumiao  staff  11912 Sep 28 20:13 PU-standard.png
 -rw-r--r--   1 hulumiao  staff    258 Sep 28 20:22 remote_data
 -rw-r--r--   1 hulumiao  staff     34 Sep 28 20:25 1695947146.o
@@ -14,6 +15,6 @@ drwxr-xr-x   4 hulumiao  staff    128 Sep 28 20:13 ..
 -rw-r--r--   1 hulumiao  staff     28 Sep 28 20:13 data.dat
 -rw-r--r--@  1 hulumiao  staff      9 Sep 28 20:25 .gitignore
 -rw-r--r--   1 hulumiao  staff    170 Sep 28 20:22 reset.sh
-drwxr-xr-x  16 hulumiao  staff    512 Sep 28 20:26 .git
+drwxr-xr-x  16 hulumiao  staff    512 Sep 28 20:28 .git
 -rw-r--r--   1 hulumiao  staff     58 Sep 28 20:22 source.py
 -rw-r--r--   1 hulumiao  staff     34 Sep 28 20:25 1695947153.obj
