@@ -1,2 +1,3 @@
 *.o
 *.obj
+!important.obj
